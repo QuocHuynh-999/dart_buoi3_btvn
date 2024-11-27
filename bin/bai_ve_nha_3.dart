@@ -110,5 +110,5 @@ void main() {
   company.printAllEmployees(); // in ra tất cả nhân viên
 
   print('Total Salary: \$${company.getTotalSalary()}'); // Tính tổng
-  
+  ////////////////////////////////////////////////////
 }
